@@ -5,3 +5,4 @@ const A = 'A'
 // git add .
 // git commit -m "first commit"
 // git remote add origin
+// git change from remote
