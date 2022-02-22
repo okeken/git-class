@@ -1,3 +1,4 @@
+const A = 'A'
 // git commands:
 // git init
 // git add index.js
